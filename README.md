@@ -1,5 +1,4 @@
-# S10
-BODC parameter semantic model biological entity sex category terms
+# S10 - BODC parameter semantic model biological entity sex category terms
 A controlled vocabulary defining terms used to refer to a biological entity sex category (part of the what theme) in the BODC parameter semantic model. 
 
 Terms and mappings available from: http://vocab.nerc.ac.uk/collection/S10/current/
